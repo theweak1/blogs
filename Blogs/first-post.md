@@ -1,7 +1,7 @@
 ---
-title: "Your Blog Title"
+title: "This is my first Post"
 date: "2024-05-14"
-author: "Your Name"
+author: "Theweak1"
 ---
-Content of your blog goes here...
 
+Here i am testing Rendering a markdown blog post.
